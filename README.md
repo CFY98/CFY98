@@ -1,4 +1,5 @@
 <div align = "center">
+  
 # About
 I am a Junior Software Developer looking to improve my programming skills and develop my tech stack.
 
