@@ -1,3 +1,4 @@
+<div align = "center">
 # About
 I am a Junior Software Developer looking to improve my programming skills and develop my tech stack.
 
@@ -16,3 +17,4 @@ I am a Junior Software Developer looking to improve my programming skills and de
 - [x] Develop prototype for the game 'Abyssmal' (name to be changed)
 - [ ] Further extend the password repository
 - [ ] Develop the respoitory for SceneSheet
+</div>
