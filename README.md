@@ -1,6 +1,6 @@
 <div align = "center">
   
-## Tech Stack
+# Tech Stack
 
 | Area | Languages & Frameworks |
 |---|---|
@@ -11,7 +11,7 @@
 | Game Dev | ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 | Media Design | ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Task List 2026
+# Task List 2026
 - [x] Develop prototype for the game 'Abyssmal' (name to be changed)
 - [ ] Further extend the password repository
 - [ ] Develop the respoitory for SceneSheet
