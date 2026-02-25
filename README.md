@@ -12,7 +12,9 @@
 | Media Design | ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # Task List 2026
-- [x] Develop prototype for the game 'Abyssmal' (name to be changed)
-- [ ] Further extend the password repository
+- [x] Develop prototype for the game 'Abyssmal'
+- [x] Create a V1 of the Password repository
+- [ ] Create the full-version of the game 'Capstone'
+- [ ] Further develop Password repository
 - [ ] Develop the respoitory for SceneSheet
 </div>
