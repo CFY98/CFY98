@@ -13,8 +13,8 @@
 
 # Task List 2026
 - [x] Develop prototype for the game 'Abyssmal'
-- [x] Create a V1 of the Password repository
+- [x] Create a V1 of the PassBox repository
 - [ ] Create the full-version of the game 'Capstone'
-- [ ] Further develop the Password repository
+- [ ] Further develop the PassBox repository
 - [ ] Develop the repository for SceneSheet
 </div>
