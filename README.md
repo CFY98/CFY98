@@ -15,6 +15,6 @@
 - [x] Develop prototype for the game 'Abyssmal'
 - [x] Create a V1 of the Password repository
 - [ ] Create the full-version of the game 'Capstone'
-- [ ] Further develop Password repository
-- [ ] Develop the respoitory for SceneSheet
+- [ ] Further develop the Password repository
+- [ ] Develop the repository for SceneSheet
 </div>
