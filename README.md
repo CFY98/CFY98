@@ -14,6 +14,7 @@
 # Task List 2026
 - [x] Develop prototype for the game 'Abyssmal'
 - [x] Create a V1 of the PassBox repository
+- [ ] Finish Harvard CS50 Python
 - [ ] Create the full-version of the game 'Capstone'
 - [ ] Further develop the PassBox repository
 - [ ] Develop the repository for SceneSheet
