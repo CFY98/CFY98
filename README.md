@@ -1,7 +1,4 @@
 <div align="center">
-# CFY
-Personal Repository
-
 ## About
 I am a Junior Software Developer looking to improve my programming skills and develop my tech stack.
 
