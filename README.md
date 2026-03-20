@@ -15,27 +15,13 @@ I am a Junior Software Developer looking to improve my programming skills and de
 | Game Dev | ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 | Media Design | ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<<<<<<< HEAD
-
-=======
 # Task List 2026
 - [x] Develop prototype for the game 'Abyssmal'
 - [x] Create a V1 of the PassBox repository
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-- [ ] Finish V2 of Chroot
-=======
 - [x] Finish V2 of Chroot
->>>>>>> 61f2a33 (Update README.md)
-=======
 - [x] Finish V3 of Chroot
->>>>>>> 2922dfb (docs completed V3 of Chroot)
 - [ ] Finish Harvard CS50 Python
->>>>>>> c248789 (Update README.md)
 - [ ] Create the full-version of the game 'Capstone'
 - [ ] Further develop the PassBox repository
 - [ ] Develop the repository for SceneSheet
 </div>
->>>>>>> 6c5bbe1 (Update README.md)
