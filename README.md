@@ -23,11 +23,15 @@ I am a Junior Software Developer looking to improve my programming skills and de
 - [x] Create a V1 of the PassBox repository
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 - [ ] Finish V2 of Chroot
 =======
 - [x] Finish V2 of Chroot
 >>>>>>> 61f2a33 (Update README.md)
+=======
+- [x] Finish V3 of Chroot
+>>>>>>> 2922dfb (docs completed V3 of Chroot)
 - [ ] Finish Harvard CS50 Python
 >>>>>>> c248789 (Update README.md)
 - [ ] Create the full-version of the game 'Capstone'
