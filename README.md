@@ -21,6 +21,11 @@ I am a Junior Software Developer looking to improve my programming skills and de
 # Task List 2026
 - [x] Develop prototype for the game 'Abyssmal'
 - [x] Create a V1 of the PassBox repository
+<<<<<<< HEAD
+=======
+- [ ] Finish V2 of Chroot
+- [ ] Finish Harvard CS50 Python
+>>>>>>> c248789 (Update README.md)
 - [ ] Create the full-version of the game 'Capstone'
 - [ ] Further develop the PassBox repository
 - [ ] Develop the repository for SceneSheet
