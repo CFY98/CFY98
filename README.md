@@ -25,7 +25,7 @@ I am a Junior Software Developer looking to improve my programming skills and de
 - [x] Finish V3 of Chroot
 - [x] Finish Harvard CS50 Python
 - [ ] Create the full-version of the game 'Capstone'
-- [ ] Further develop the PassBox repository
+- [x] Finish CLI version of PassBox
 - [ ] Develop the repository for SceneSheet
 
 </div>
