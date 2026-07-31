@@ -20,8 +20,6 @@ I am a Junior Software Developer looking to improve my programming skills and de
 
 ## Active Projects
 - SceneSheet (Demo)
-- Editing documentary How Many Miles
-- Script reading for the Austin Film Festival
   
 ## Task List 2026
 - [x] Develop prototype for the game 'Abyssmal'
